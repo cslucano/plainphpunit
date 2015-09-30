@@ -1,6 +1,6 @@
 <?php
 
-require_once __DIR__.'/salida.php';
+require_once __DIR__.'/../salida.php';
 
 class salidaTest extends PHPUnit_Framework_TestCase
 {

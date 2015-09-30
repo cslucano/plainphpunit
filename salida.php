@@ -3,7 +3,6 @@
 function nextPaymentDate($day)
 {
 
-  //return '';
+  return '1';
 }
 
-nextPaymentDate(1);
