@@ -2,5 +2,9 @@
 
 function nextPaymentDate($day)
 {
-  return '1';
+
+  //return '1';
+  return '';
 }
+
+nextPaymentDate(1);
