@@ -8,4 +8,6 @@ php:
   - hhvm
   - nightly
 
-script: phpunit arregloTest.php 
+#script: phpunit arregloTest.php 
+script: phpunit --configuration phpunit.xml
+  
