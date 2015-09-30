@@ -6,4 +6,4 @@ php:
   - hhvm
   - nightly
 
-script: phpunit salidaTest.php 
+script: phpunit arregloTest.php 
